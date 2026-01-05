@@ -16,3 +16,7 @@ com dados públicos do Portal da Transparência.
 Praticar análise exploratória de dados e
 desenvolver portfólio para vagas iniciais.
 
+⚠️ O dataset completo não foi incluído por ser muito grande.
+Foi utilizada uma amostra aleatória de 5.000 registros.
+
+
