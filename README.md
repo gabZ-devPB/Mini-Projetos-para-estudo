@@ -16,9 +16,9 @@ com dados públicos do Portal da Transparência.
 Praticar análise exploratória de dados e
 desenvolver portfólio para vagas iniciais.
 
-⚠️ O dataset completo não foi incluído por ser muito grande. Porem foi utilizada a planilha de viagens do portal
-da Transparência de 2025.
+⚠️ O dataset completo não foi incluído por ser muito grande. mas. para fins de busca, foi utilizada a planilha de viagens do portal da Transparência de 2025.
 
+Nome do Arquivo: 2025_Viagens.csv
 link: https://portaldatransparencia.gov.br/viagens/consulta?de=01%2F12%2F2025&ate=31%2F12%2F2025&ordenarPor=de&direcao=desc
 
 
