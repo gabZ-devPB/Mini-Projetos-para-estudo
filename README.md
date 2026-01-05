@@ -4,9 +4,13 @@ Projetos de análise de dados usando Python e Pandas
 com dados públicos do Portal da Transparência.
 
 arquivos/
+
 │── 2025_Viagens.csv (não foi incluído por ser muito grande)
+
 mini_projetos/
+
 │── mini_projeto1.py
+
 │── mini_projeto2.py
 
 
